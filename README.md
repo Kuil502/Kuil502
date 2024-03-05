@@ -18,7 +18,7 @@
 
 💬 Pregúntame sobre **python, machine learning, data visualization y desarrollo web**.
 
-📫 Cómo contactarme: [Enviar Correo Electrónico](mailto:tu-email@example.com)
+📫 Cómo contactarme: [Enviar Correo Electrónico](mailto:Wilfredoalpirez@gmail.com)
 
 ⚡ Dato curioso: Me encanta resolver problemas desafiantes y encontrar insights ocultos en los datos.
 
@@ -36,10 +36,3 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
 </p>
 
----
-
-<h2 align="center">Estadísticas de GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=algolia" alt="stats"/>
-</p>
