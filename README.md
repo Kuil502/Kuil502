@@ -2,25 +2,24 @@
 <h3 align="center">Científico de Datos y Desarrollador de Software</h3>
 
 <p align="center">
-  <a href="mailto:WilfredoAlpirez@gmail.com">Correo Electrónico</a> |
-  <a href="www.linkedin.com/in/wilfredo-alpirez-835210197">LinkedIn</a> |
+  <a href="mailto:wilfredoalpirez@gmail.com">✉️ Correo Electrónico</a> |
+  <a href="https://www.linkedin.com/in/wilfredo-alpirez-835210197">🔗 LinkedIn</a> 
+a>
 </p>
 
 ---
 
-🔭 Actualmente estoy trabajando en **Integrar Inteligencia Artificial en Bases de Datos** para optimizar procesos y mejorar la toma de decisiones.
+🔭 **Actualmente trabajando en:** Integrar Inteligencia Artificial en Bases de Datos para optimizar procesos y mejorar la toma de decisiones.
 
-🌱 Actualmente estoy aprendiendo **Machine Learning Interpretability y MLOps**.
+🌱 **Aprendiendo:** Machine Learning Interpretability y MLOps.
 
-👯 Estoy buscando colaborar en **proyectos de código abierto relacionados con la ciencia de datos y la inteligencia artificial**.
+👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con la ciencia de datos y la inteligencia artificial.
 
-🤝 Estoy buscando ayuda con **técnicas avanzadas de procesamiento de lenguaje natural (NLP)**.
+🤝 **Buscando ayuda con:** Técnicas avanzadas de procesamiento de lenguaje natural (NLP).
 
-💬 Pregúntame sobre **python, machine learning, data visualization y desarrollo web**.
+💬 **Pregúntame sobre:** Python, Machine Learning, Data Visualization y Desarrollo Web.
 
-📫 Cómo contactarme: [Enviar Correo Electrónico](mailto:Wilfredoalpirez@gmail.com)
-
-⚡ Dato curioso: Me encanta resolver problemas desafiantes y encontrar insights ocultos en los datos.
+⚡ **Dato curioso:** ¡Me encanta resolver problemas desafiantes y encontrar insights ocultos en los datos!
 
 ---
 
@@ -35,4 +34,3 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
 </p>
-
