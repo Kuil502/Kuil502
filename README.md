@@ -8,15 +8,13 @@
 
 ---
 
-🔭 **Actualmente trabajando en:** Integrar Inteligencia Artificial en Bases de Datos para optimizar procesos y mejorar la toma de decisiones.
+🚀 **Actualmente trabajando en:** Desarrollando soluciones de inteligencia artificial para transformar datos en decisiones estratégicas y optimizar procesos empresariales.
 
-👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con la ciencia de datos y la inteligencia artificial.
+🔍 **Explorando colaboraciones en:** Proyectos innovadores de código abierto centrados en la ciencia de datos y la inteligencia artificial, ¡juntos podemos impulsar el futuro!
 
-🤝 **Buscando ayuda con:** Técnicas avanzadas de procesamiento de lenguaje natural (NLP).
+💬 **Pregúntame sobre:** Python, Machine Learning, Visualización de Datos y Desarrollo Web; estoy aquí para desmitificar conceptos complejos y potenciar tu conocimiento.
 
-💬 **Pregúntame sobre:** Python, Machine Learning, Data Visualization y Desarrollo Web.
-
-⚡ **Dato curioso:** ¡Me encanta resolver problemas desafiantes y encontrar insights ocultos en los datos!
+⚡ **Dato curioso:** ¡Apasionado por desafiar lo imposible y descubrir patrones ocultos en los datos que impulsan la innovación y el progreso! 
 
 ---
 
