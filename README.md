@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:wilfredoalpirez@gmail.com">✉️ Correo Electrónico</a> |
   <a href="https://www.linkedin.com/in/wilfredo-alpirez-835210197">🔗 LinkedIn</a> 
-a>
 </p>
 
 ---
