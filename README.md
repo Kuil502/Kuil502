@@ -10,8 +10,6 @@
 
 🔭 **Actualmente trabajando en:** Integrar Inteligencia Artificial en Bases de Datos para optimizar procesos y mejorar la toma de decisiones.
 
-🌱 **Aprendiendo:** Machine Learning Interpretability y MLOps.
-
 👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con la ciencia de datos y la inteligencia artificial.
 
 🤝 **Buscando ayuda con:** Técnicas avanzadas de procesamiento de lenguaje natural (NLP).
