@@ -2,9 +2,8 @@
 <h3 align="center">Científico de Datos y Desarrollador de Software</h3>
 
 <p align="center">
-  <a href="mailto:tu-email@example.com">Correo Electrónico</a> |
-  <a href="https://linkedin.com/in/tu-usuario">LinkedIn</a> |
-  <a href="https://twitter.com/tu_usuario">Twitter</a>
+  <a href="mailto:WilfredoAlpirez@gmail.com">Correo Electrónico</a> |
+  <a href="www.linkedin.com/in/wilfredo-alpirez-835210197">LinkedIn</a> |
 </p>
 
 ---
